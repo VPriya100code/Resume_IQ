@@ -2,14 +2,6 @@
 
 ### 💡 AI-Powered Resume Intelligence System
 
-<p align="center">
-  <img src="./public/thumbnail.png" alt="ResumeIQ AI Banner" width="800"/>
-</p>
-
-<p align="center">
-  <b>Analyze • Improve • Get Hired</b><br/>
-  AI-driven resume analysis, job matching, and smart career insights ⚡
-</p>
 
 ---
 
@@ -52,13 +44,6 @@
 
 ---
 
-## 📸 Preview
-
-<p align="center">
-  <img src="./public/thumbnail.png" width="700"/>
-</p>
-
----
 
 ## ⚡ How It Works
 
@@ -73,7 +58,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/resumeiq-ai.git
+git clone https://github.com/VPriya100code/Resume_IQ.git
 
 # Navigate into project
 cd resumeiq-ai
